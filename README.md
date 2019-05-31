@@ -4,7 +4,7 @@
 
 Este repositorio está dirigido a todas las personas que buscan aprender o repasar las características de **C**.
 
-![Image C](https://raw.githubusercontent.com/diegoAlex24/C-examples/master/c-logo.jpg)
+![Image C](https://raw.githubusercontent.com/diegoAlex24/C-examples/master/c-logo.png)
 
 ### C
 Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
@@ -20,7 +20,12 @@ int main (){
 ### Contenido
 
 1. programa_1.c
-    * 
+    * Comentarios
+    * Constante
+    * Impresión de pantalla
+    * Enteros
+    * Flotantes
+    * Operadores aritméticos
 
 [Repositorio](https://github.com/diegoAlex24/C-examples).
 
